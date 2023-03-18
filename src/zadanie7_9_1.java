@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // инфо здесь: https://youtu.be/-RiS_nFl9ok
+// и также здесь: https://www.bestprog.net/ru/2019/02/10/arrays-of-strings-in-java-one-dimensional-and-two-dimensional-arrays-of-strings-initialization-of-arrays-of-strings-examples-of-tasks-solving-ru/#q07
 public class zadanie7_9_1 {
     // 7. Пользователь вводит 10 строк. Те из них, в которых есть восклицательный знак, выведите в stderr. Попробуйте использовать цикл.
     public static void main(String[] args) {
