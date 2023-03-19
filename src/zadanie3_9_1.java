@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.io.*;
-
+    // инфо здесь: https://youtu.be/TR8-chtKXFQ
 public class zadanie3_9_1 {
     // 3. Используя System.in (без сканнера),считайте слово до пробела. Макс размер слова 10 символов.
     public static void main(String[] args) throws IOException {
