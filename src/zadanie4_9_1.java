@@ -33,7 +33,7 @@ System.in (без сканера). */
         BufferedReader bufferReader = new BufferedReader(new InputStreamReader(System.in));
         String letter = bufferReader.readLine();
 
-        FileOutputStream fileOutputStream = new FileOutputStream(str_4);
+        FileOutputStream fileOutputStream = new FileOutputStream(str_4);   // инфо здесь: https://javarush.com/groups/posts/2020-vvod-vihvod-v-java-klassih-fileinputstream-fileoutputstream-bufferedinputstream
         fileOutputStream.write(letter.getBytes());
         fileOutputStream.close();
         System.out.println("Буква записана в третий файл.");
